@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/data/home/hadoop/test/data03out'
+let g:netrw_dirhist_2='/data/home/hadoop/lsh/binToSeq'
+let g:netrw_dirhist_3='/data/home/hadoop/lsh/1/_logs'
+let g:netrw_dirhist_4='/data/home/hadoop/lsh/datalateremove'
+let g:netrw_dirhist_5='/data/home/hadoop/lsh/datatbout'
+let g:netrw_dirhist_6='/data/home/hadoop/test/cpp/invertedIndex'
+let g:netrw_dirhist_7='/data/home/hadoop/.vim/bundle/gdbmgr/gdbmgr/progs'
+let g:netrw_dirhist_8='/data/home/hadoop/faceDetect/exFeature'
+let g:netrw_dirhist_9='/data/home/hadoop/faceDetect/yjAlign'
